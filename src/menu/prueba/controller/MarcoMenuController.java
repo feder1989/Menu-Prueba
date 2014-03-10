@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package menu.prueba.controlador;
+package menu.prueba.controller;
 
 import java.awt.Font;
 import java.awt.event.ActionEvent;
@@ -12,7 +12,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ItemEvent;
 import java.awt.event.ItemListener;
 import menu.prueba.view.MarcoMenu;
-import menu.prueba.arranque.MenuPrueba;
+import menu.prueba.Start.MenuPrueba;
 
 /**
  *
